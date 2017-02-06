@@ -4,7 +4,7 @@
 	// }
 // }
 
-class helloworldapp {
+class sample {
     public static void main(string[] args) {
         system.out.println("hello world!"); // display the string.
     }
